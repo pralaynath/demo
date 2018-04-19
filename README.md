@@ -2,8 +2,4 @@
 
 My first GIT file .
 
-##save
-
-#another change 
-
-# new branch
+#updating on bad branch 
